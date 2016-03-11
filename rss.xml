@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tyler Shadle]]></title>
         <description><![CDATA[Tyler Shadle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tylershadle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 16:46:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 18:18:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tylershadle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c26b6951-9ab4-4844-b0e0-d1824941c07b.jpg">]]></description>
+            <link>https://thegrid.ai/tylershadle/0d805357-628d-4bdc-b051-37922bbb358c/index.html</link>
+            <guid isPermaLink="false">0d805357-628d-4bdc-b051-37922bbb358c</guid>
+            <pubDate>Fri, 11 Mar 2016 18:17:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Tyler Shadle: Actor, Writer, Director, Teacher...</p>]]></description>
-            <link>undefinedtyler-shadle-actor-writer-director-teacher/index.html</link>
+            <link>https://thegrid.ai/tylershadle/tyler-shadle-actor-writer-director-teacher/index.html</link>
             <guid isPermaLink="false">fe33a315-0f3b-48d2-8e49-2ec443242eb1</guid>
             <pubDate>Fri, 11 Mar 2016 16:46:02 GMT</pubDate>
         </item>
